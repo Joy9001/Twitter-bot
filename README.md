@@ -36,7 +36,7 @@ Before running the script, make sure you have the following:
     - Start the internet speed test and retrieve the download and upload speeds.
     - Log in to your Twitter account (if not already logged in).
     - Compose a tweet mentioning your internet service provider and the speed discrepancy.
-    - Save the tweet as a draft.
+    - Save the tweet as a draft [I have saved it. You can post it. 😁].
 
 ## Customization
 
